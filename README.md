@@ -1,10 +1,8 @@
 # Bus Ticket Booking App (Spring Boot)
 
-This repository contains the server-side implementation of the Bus Ticket Booking App. The app is developed using Spring Boot, which provides a robust and efficient framework for building backend applications. The server-side code works in conjunction with the Flutter frontend code to enable bus ticket booking functionalities.
+
 
 ## Features
-
-The Bus Ticket Booking App built with Spring Boot offers the following features:
 
 - User Features:
   - Search for bus routes based on the source and destination.
